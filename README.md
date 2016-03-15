@@ -13,3 +13,8 @@ WPF application for getting data from CSV files and print the result on txt file
 #### Environment
 - Developed with Visual Studio 2015
 - .Net Framework 4.5.2
+
+##### Libraries
+- Prism https://github.com/PrismLibrary/Prism
+- Unity https://www.nuget.org/packages/Unity/3.5.1404
+- CsvHelper https://github.com/JoshClose/CsvHelper
